@@ -1,3 +1,4 @@
+'''It's a calculator using python tkinter'''
 from tkinter import *
 def btnClick(numbers):
     global operator
